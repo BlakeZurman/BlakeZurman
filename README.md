@@ -6,7 +6,7 @@ My portfolio includes Data Science projects intended to showcase the intersetion
 
 ## About me 
 I'm pursuing an MIS in Data Science at Syracuse University, with a projected graduation date of summer 2025.
-I recieved my Bachelors in Applied Computational Mathematics at Florida State University in the spring 2024.
+I received my Bachelors in Applied Computational Mathematics at Florida State University in the spring 2024.
 I a passionate musician in my spare time.
 
 ## What You'll Find Here 
