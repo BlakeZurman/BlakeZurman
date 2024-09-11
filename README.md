@@ -2,7 +2,7 @@
 
 My name is Blake Zurman, I'm an ambitious Data Science graduate student at Syracuse University with a strong foundation in Statistical Analysis, Machine Learning, and Data Visualization.
 My background is in Applied Computational Mathematics, with an emphasis on Mathematical Modeling, Financial Math, and Computer Science. 
-My portfolio includes Data Science projects intended to showcase the intersetion of my abilities, and my passions.
+My portfolio includes Data Science projects intended to showcase the intersection of my abilities, and my passions.
 
 ## About me 
 I'm pursuing an MIS in Data Science at Syracuse University, with a projected graduation date of summer 2025.
